@@ -128,6 +128,33 @@ const technologies = [
   },
 ];
 
+const tech = [
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  {
+    name: "Three JS",
+    icon: threejs,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
+];
+
 const experiences = [
   {
     title: "Fullstack Web Developer and UI/UX Developer",
@@ -336,4 +363,5 @@ export {
   testimonials,
   projects,
   certificates,
+  tech,
 };
