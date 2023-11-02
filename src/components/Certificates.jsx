@@ -29,7 +29,7 @@ const Certificates = () => {
       <motion.div variants={textVariant()}>
         {/* <center> */}
         <h2 className={`${styles.sectionHeadText} certi_top`}>
-          My Certificates
+          My Certificates.
         </h2>
         {/* </center> */}
       </motion.div>
