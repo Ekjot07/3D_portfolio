@@ -185,14 +185,14 @@ const testimonials = [
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Ekjot proved me wrong.",
-    name: "Debabrata Ghosh",
+    name: "Mr.Debabrata Ghosh",
     designation: "Director",
     company: "of Skitech Netcorp",
   },
   {
     testimonial:
       "An outstanding intern who played a pivotal role in developing and seamlessly translating creative concepts into an aesthetically pleasing website.",
-    name: "Samarshi Baidya",
+    name: "Mr.Samarshi Baidya",
     designation: "My Mentor",
     company: "at Skitech Netcorp",
   },
