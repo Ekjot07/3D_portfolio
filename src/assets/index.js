@@ -24,6 +24,7 @@ import nextjs from "./tech/nextjs.png";
 
 import skitechlogo from "./company/skitechlogo.svg";
 import solarsecuresolutions from "./company/solarsecuresolutions.png";
+import amazon from "./company/amazon.png";
 
 import aiverse from "./aiverse.png";
 import skitech from "./skitech.png";
@@ -64,6 +65,7 @@ export {
   threejs,
   skitechlogo,
   solarsecuresolutions,
+  amazon,
   aiverse,
   skitech,
   carhub,

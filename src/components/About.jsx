@@ -48,11 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in Java and JavaScript,
-        and expertise in frameworks like React, Node.js, and MongoDb and
-        TypeScript. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled software developer with expertise in Java and JavaScript, and in-depth knowledge of frameworks like React, Node.js, TypeScript, and MongoDB. In addition to my strong software development skills, I also have experience in data engineering from my internship at Amazon, where I worked on creating efficient data pipelines and optimizing database performance. I'm a quick learner who collaborates closely with clients to develop scalable, user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

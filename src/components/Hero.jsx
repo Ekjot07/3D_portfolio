@@ -19,8 +19,8 @@ const Hero = () => {
             Hi, I'm <span className="text-[#915EFF]">Ekjot</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a 21-year-old student with 2+ years of experience in web dev,
-            <br className="sm:block hidden" /> specializing in the creation of websites and user interfaces.
+            I am a 21-year-old graduate with experience in developing websites,
+            <br className="sm:block hidden" /> user interfaces, and data engineering solutions.
           </p>
         </div>
       </div>

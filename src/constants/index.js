@@ -5,6 +5,7 @@ import {
   web,
   skitechlogo,
   solarsecuresolutions,
+  amazon,
   javascript,
   typescript,
   html,
@@ -60,11 +61,11 @@ const services = [
     icon: web,
   },
   {
-    title: "UI/UX Developer",
+    title: "CMS Developer",
     icon: mobile,
   },
   {
-    title: "CMS Developer",
+    title: "Data Engineer",
     icon: backend,
   },
   {
@@ -168,7 +169,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Developer",
+    title: "Fullstack Web Developer",
     company_name: " Solar Secure Solutions",
     icon: solarsecuresolutions,
     date: "May 2022 - July 2022",
@@ -179,29 +180,41 @@ const experiences = [
       "Configured MongoDB and wrote Mongoose (ODM) queries enhancing response time by 15%.",
     ],
   },
+  {
+    title: "Data Engineer",
+    company_name: " Amazon",
+    icon: amazon,
+    date: "Jan 2024 - June 2024",
+    points: [
+      "Engineered an near real time scalable data pipeline by consolidating two legacy pipelines, reducing the costs and runtime by 70% and driving critical business decisions during high-volume events.",
+      "Built a comprehensive unit testing package, automating 50+ sample tests to ensure data integrity, reducing testing time for Data Engineers by 40%.",
+      "Architected a robust data pipeline that provides holistic insights into Amazon’s competitors by comparing delivery speed and price at the time of a glance view.",
+      "Designed a Data Quality framework using Deequ that enhanced system reliability, minimized critical bugs, and accelerated deployment cycles, with regular checks and visualization in a dashboard for easy monitoring.",
+    ],
+  },
 ];
 
 const testimonials = [
+  {
+    testimonial:
+      "An outstanding intern who played a pivotal role in developing and seamlessly translating creative concepts into an aesthetically pleasing website.",
+    name: "Mr.Aditya Yogi",
+    designation: "Sr. Data Engineer, Manager",
+    company: "at Amazon",
+  },
+  {
+    testimonial:
+      "Ekjot transformed a learning experience into valuable contributions, exceeding expectations, consistently demonstrating exceptional prowess.",
+    name: "Mr.Chandrasekhar Raman",
+    designation: "Data Engineer II, Mentor",
+    company: "at Amazon",
+  },
   {
     testimonial:
       "I thought it was impossible to make a website as beautiful as our product, but Ekjot proved me wrong.",
     name: "Mr.Debabrata Ghosh",
     designation: "Director",
     company: "of Skitech Netcorp",
-  },
-  {
-    testimonial:
-      "An outstanding intern who played a pivotal role in developing and seamlessly translating creative concepts into an aesthetically pleasing website.",
-    name: "Mr.Samarshi Baidya",
-    designation: "My Mentor",
-    company: "at Skitech Netcorp",
-  },
-  {
-    testimonial:
-      "Ekjot transformed a learning experience into valuable contributions, exceeding expectations, consistently demonstrating exceptional prowess.",
-    name: "Mr.Pritesh",
-    designation: "Sr.Web Developer",
-    company: "at Solar Secure Solutions",
   },
 ];
 
@@ -313,7 +326,7 @@ const projects = [
   {
     name: "Leetcode",
     description:
-      "My LeetCode profile, featuring over 420 solved questions, showcases my strong skills in Data Structures and Algorithms. It's a testament to my problem-solving abilities, demonstrating a deep understanding of core concepts and a commitment to continuous learning. Explore my profile to see how I tackle complex challenges and find efficient solutions.",
+      "My LeetCode profile, featuring over 550 solved questions, showcases my strong skills in Data Structures and Algorithms. It's a testament to my problem-solving abilities, demonstrating a deep understanding of core concepts and a commitment to continuous learning. Explore my profile to see how I tackle complex challenges and find efficient solutions.",
     tags: [
       {
         name: "Leetcode",
