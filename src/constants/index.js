@@ -158,6 +158,18 @@ const tech = [
 
 const experiences = [
   {
+    title: "Data Engineer",
+    company_name: " Amazon",
+    icon: amazon,
+    date: "Jan 2024 - June 2024",
+    points: [
+      "Engineered an near real time scalable data pipeline in Spark Environment by consolidating two legacy pipelines, reducing the costs and runtime by 70% and driving critical business decisions during high-volume events.",
+      "Built a comprehensive unit testing package in Scala, automating 50+ sample tests to ensure data integrity, reducing testing time for Data Engineers by 40%.",
+      "Architected a robust data pipeline that provides holistic insights into Amazon’s competitors by comparing delivery speed and price at the time of a glance view.",
+      "Designed a Data Quality framework using Deequ in Scala that enhanced system reliability, minimized critical bugs, and accelerated deployment cycles, with regular checks and visualization in a dashboard for easy monitoring.",
+    ],
+  },
+  {
     title: "Fullstack Web Developer and UI/UX Developer",
     company_name: "Skitech Netcorp",
     icon: skitechlogo,
@@ -178,18 +190,6 @@ const experiences = [
       "Pioneered RESTful APIs using Node.js and express.js, facilitating seamless front-end and back-end data transfer.",
       "Utilized version control systems, like Git, to effectively manage codebase and facilitate seamless collaboration.",
       "Configured MongoDB and wrote Mongoose (ODM) queries enhancing response time by 15%.",
-    ],
-  },
-  {
-    title: "Data Engineer",
-    company_name: " Amazon",
-    icon: amazon,
-    date: "Jan 2024 - June 2024",
-    points: [
-      "Engineered an near real time scalable data pipeline by consolidating two legacy pipelines, reducing the costs and runtime by 70% and driving critical business decisions during high-volume events.",
-      "Built a comprehensive unit testing package, automating 50+ sample tests to ensure data integrity, reducing testing time for Data Engineers by 40%.",
-      "Architected a robust data pipeline that provides holistic insights into Amazon’s competitors by comparing delivery speed and price at the time of a glance view.",
-      "Designed a Data Quality framework using Deequ that enhanced system reliability, minimized critical bugs, and accelerated deployment cycles, with regular checks and visualization in a dashboard for easy monitoring.",
     ],
   },
 ];
